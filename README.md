@@ -1,4 +1,5 @@
 ### Hi there 👋  I am <a href="https://salmankhan.tech">Salman Khan</a>
+<h2>I'm a Student and Developer <h2>
 🔭 I’m currently working on a newProject!<br>
 🌱 I’m currently learning everything 🤣<br>
 👯 I’m looking to collaborate with other content creators<br>
