@@ -49,8 +49,8 @@
 [website]: https://salmankhan.tech
 [twitter]: https://twitter.com/salmankhanprs
 
-[instagram]: https://instagram.com/salmankhan-prs
-[linkedin]: https://linkedin.com/in/salmankhan
+[instagram]: https://instagram.com/salman_khan_prs
+[linkedin]: www.linkedin.com/in/salman-khan-tech
 [webdevplaylist]: https://salmankhan.tech
 [jsplaylist]: https://salmankhan.tech
 [cssplaylist]: https://salmankhan.tech
