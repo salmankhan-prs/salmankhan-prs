@@ -1,57 +1,29 @@
 ### Hi there 👋  I am <a href="https://salmankhan.tech">Salman Khan</a>
-<p>I'm a Student and Developer<p> 
-  <ul>
-    <li>🔭 I’m currently working on a newProject!</li>
-<li>🌱 I’m currently learning everything 🤣</li>
-<li>👯 I’m looking to collaborate with other content creators</li>
-<li>🥅 2022 Goals: Contribute more to Open Source projects</li>
-   </ul>
+
+I am a Full Stack Developer and an occasional Open Source Contributor with experience in creating web and mobile applications. Skilled in various programming languages and frameworks, I am able to work on both the front-end and back-end of a project. Additionally, I am passionate about open-source software and contribute to various projects in my free time.
 
 
 
+## Connect with me 
+
+[![Linkedin Badge](https://img.shields.io/badge/-Salmankhan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/salman-khan-tech/)](https://www.linkedin.com/in/salman-khan-tech/)
+[![Peerlist Badge](https://img.shields.io/badge/peerlist-salman-brightgreen?style=flat-square&logo=Peerlist&logoColor=white&link=https://www.linkedin.com/in/salman-khan-tech/)](https://peerlist.io/salman)
 
 
 
-### Connect with me:
-
-[<img align="left" alt="salmankhan.tech" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-
-[<img align="left" alt="salman | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="salman | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="salman | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-<br />
 
 ### Languages and Tools:
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
+![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
+![Redis](https://img.shields.io/badge/-Redis-black?style=flat-square&logo=Redis)
+![Dapr](https://img.shields.io/badge/-Dapr-black?style=flat-square&logo=dapr)
+![Hasura](https://img.shields.io/badge/-Hasura-f8fcff?style=flat-square&logo=hasura)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=PostgreSQL)
+![Jest](https://img.shields.io/badge/-Jest-black?style=flat-square&logo=jest)
+![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![Go](https://img.shields.io/badge/-Go-black?style=flat-square&logo=go)
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][webdevplaylist]
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][webdevplaylist]
-[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][cssplaylist]
-
-[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][jsplaylist]
-[<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][reactplaylist]
-
-
-[<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][webdevplaylist]
-
-[<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][webdevplaylist]
-[<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][webdevplaylist]
-[<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />][webdevplaylist]
-[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][webdevplaylist]
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][webdevplaylist]
-[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][webdevplaylist]
-
-
-<br />
-<br />
-
----
-[website]: https://salmankhan.tech
-[twitter]: https://twitter.com/salmankhanprs
-
-[instagram]: https://instagram.com/salman_khan_prs
-[linkedin]: www.linkedin.com/in/salman-khan-tech
-[webdevplaylist]: https://salmankhan.tech
-[jsplaylist]: https://salmankhan.tech
-[cssplaylist]: https://salmankhan.tech
-[reactplaylist]: https://salmankhan.tech
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=salmankhan-prs)
