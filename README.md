@@ -29,6 +29,7 @@ I am a Full Stack Developer and an occasional Open Source Contributor with exper
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [First Post](https://dev.to/salmankhanprs/first-post-83g)
 <!-- BLOG-POST-LIST:END -->
 
 
