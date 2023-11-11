@@ -13,6 +13,8 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [second post](https://dev.to/salmankhanprs/second-post-1e02)
+- [First Post](https://dev.to/salmankhanprs/first-post-83g)
 <!-- BLOG-POST-LIST:END -->
 
 👇 Hit in your console or terminal to connect with me.
