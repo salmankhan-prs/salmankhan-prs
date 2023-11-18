@@ -7,9 +7,9 @@
 
 - 🌱 I’m currently learning **Golang**
 
-- 💬 Ask me about **Backend**
+- 💬 Feel free to ask me anything related to **Backend development**!
 
-- 📫 How to reach me **salmankhanprs@gmail.com**
+- 📫 How to reach me:  **salmankhanprs@gmail.com**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
