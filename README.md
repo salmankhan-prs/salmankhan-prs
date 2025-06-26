@@ -1,43 +1,71 @@
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&random=false&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Salman+Khan;Namaste(%E0%B0%A8%E0%B0%AE%E0%B0%B8%E0%B1%8D%E0%B0%A4%E0%B1%87)+%F0%9F%91%8B%2C+I'm+Salman+Khan)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4AF87D&width=435&lines=Hey+%F0%9F%91%8B+I'm+Salman+Khan;Backend+%2B+DevOps+Engineer;Builder+of+CleverHire.ai)](https://git.io/typing-svg)
+
+---
+###       👋 Hi, I'm Salman Khan
+
+I'm a **Senior Software Engineer** with 4+ years of experience building **scalable backend systems**, **cloud infrastructure**, and **GenAI-integrated products**.
 
 
-<h4 align="center">I am a Full Stack Developer and an occasional Open Source Contributor with experience in creating web and mobile applications. Skilled in various programming languages and frameworks, I am able to work on both the front-end and back-end of a project. Additionally, I am passionate about open-source software and contribute to various projects in my free time</h3>
-<br/>
+- 🔧 Currently building [**CleverHire.ai**](https://cleverhire.ai) – a GenAI-based platform streamlining recruitment workflows.
+- 🧠 Exploring **LLM agents**, **agentic workflows**, and **multi-agent orchestration** for real-world applications.
+- ☁️ Passionate about DevOps, Backend
+- 🚀 Building and scaling products in early-stage, fast-paced environments.
 
+- 🧰 Tech focus: `Node.js`, `Python`, `FastAPI`, `NestJS`, `AWS`, `PostgreSQL`, `Terraform`, `LangChain`, `Docker`, `RAG`, `MongoDB`
 
-- 🌱 I’m currently learning **Golang**
+---
 
-- 💬 Feel free to ask me anything related to **Backend development**!
+### 💡 Personal Highlights
 
-- 📫 How to reach me:  **salmankhanprs@gmail.com**
+- 💬 Ask me about: building scalable APIs, team-first engineering, GenAI + backend.
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-- [How to scrap webpages using Javascript](https://dev.to/salmankhanprs/first-post-83g)
-<!-- BLOG-POST-LIST:END -->
+- 🧠 Deeply driven by **product thinking, ownership, and shipping fast**.
+- ✍️ Blogs: [dev.to/salmankhanprs](https://dev.to/salmankhanprs)
+- 👨‍💻 You can also run my CLI:
+  ```bash
+  npx salmankhan
+  ```
 
-👇 Hit in your console or terminal to connect with me.
+---
 
-```bash
-npx salmankhan
-```
+### 📫 Let's Connect
 
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/salman-khan-tech/)
+[![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/salmankhanprs)
+[![Gmail](https://img.shields.io/badge/-salmankhanprs@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:salmankhanprs@gmail.com)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/salmankhanprs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="salmankhanprs" height="30" width="40" /></a>
-<a href="https://twitter.com/salmankhanprs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="salmankhanprs" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/salman-khan-tech" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="salman-khan-tech" height="30" width="40" /></a>
+---
+
+### 🛠️ Tech Stack & Tools
+
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?style=flat&logo=terraform&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
+![LangChain](https://img.shields.io/badge/-LangChain-ffcf00?style=flat&logo=openai&logoColor=black)
+![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
+
+---
+
+### 📊 GitHub Stats
+
+<p>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=salmankhan-prs&show_icons=true&theme=radical" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=salmankhan-prs&layout=compact&theme=radical" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB" alt="express" /> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://github.com/puppeteer/puppeteer" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pptrdev/pptrdev-official.svg" alt="puppeteer" width="40" height="40"/> </a> <a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=salmankhan-prs&theme=radical" />
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=salmankhan-prs&show_icons=true&locale=en&layout=compact" alt="salmankhan-prs" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=salmankhan-prs&show_icons=true&locale=en" alt="salmankhan-prs" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=salmankhan-prs&" alt="salmankhan-prs" /></p>
-
+---
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=salmankhan-prs)
+`
