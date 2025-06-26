@@ -4,7 +4,7 @@
 ---
 ###       👋 Hi, I'm Salman Khan
 
-I'm a **Senior Software Engineer** with 4+ years of experience building **scalable backend systems**, **cloud infrastructure**, and **GenAI-integrated products**.
+I'm a **Senior Software Engineer** with 4+ years of experience building **scalable backend systems**, **cloud infrastructure**, and **GenAI products**.
 
 
 - 🔧 Currently building [**CleverHire.ai**](https://cleverhire.ai) – a GenAI-based platform streamlining recruitment workflows.
