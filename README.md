@@ -22,6 +22,12 @@ I'm a **Senior Software Engineer** with 4+ years of experience building **scalab
 
 - 🧠 Deeply driven by **product thinking, ownership, and shipping fast**.
 - ✍️ Blogs: [dev.to/salmankhanprs](https://dev.to/salmankhanprs)
+
+## My Latest Blog Posts 👇
+<!-- HASHNODE_BLOG:START -->
+<!-- HASHNODE_BLOG:END -->
+
+
 - 👨‍💻 You can also run my CLI:
   ```bash
   npx salmankhan
