@@ -24,8 +24,9 @@ I'm a **Senior Software Engineer** with 4+ years of experience building **scalab
 - ✍️ Blogs: [dev.to/salmankhanprs](https://dev.to/salmankhanprs)
 
 ## My Latest Blog Posts 👇
-<!-- HASHNODE_BLOG:START -->
-<!-- HASHNODE_BLOG:END -->
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 
 
 - 👨‍💻 You can also run my CLI:
