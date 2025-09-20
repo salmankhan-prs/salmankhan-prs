@@ -21,12 +21,8 @@ I'm a **Senior Software Engineer** with 4+ years of experience building **scalab
 - 💬 Ask me about: building scalable APIs, team-first engineering, GenAI + backend.
 
 - 🧠 Deeply driven by **product thinking, ownership, and shipping fast**.
-- ✍️ Blogs: [dev.to/salmankhanprs](https://dev.to/salmankhanprs)
+- ✍️ Blogs: [blog.salmankhan.pro](https://blog.salmankhan.pro)
 
-## My Latest Blog Posts 👇
-<!-- BLOG-POST-LIST:START -->
-- [How to scrap webpages using Javascript](https://dev.to/salmankhanprs/first-post-83g)
-<!-- BLOG-POST-LIST:END -->
 
 
 
