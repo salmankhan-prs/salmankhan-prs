@@ -25,6 +25,7 @@ I'm a **Senior Software Engineer** with 4+ years of experience building **scalab
 
 ## My Latest Blog Posts 👇
 <!-- BLOG-POST-LIST:START -->
+- [How to scrap webpages using Javascript](https://dev.to/salmankhanprs/first-post-83g)
 <!-- BLOG-POST-LIST:END -->
 
 
