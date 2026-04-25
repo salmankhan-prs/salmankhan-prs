@@ -4,7 +4,11 @@
 ---
 
 
-I'm a **Senior Software Engineer** with 4+ years of experience building **scalable backend systems**, **cloud infrastructure**, and **GenAI products**.
+### About me
+
+I'm a **Senior Software Engineer** experienced in building **backend platforms**, **DevOps workflows**, and **GenAI-powered products**.
+I solve problems around **scalable systems**, reducing operational friction, and helping teams **ship production features fast**.
+I work with strong **ownership**, clear **product thinking**, and a high bar for **execution speed** from idea to release.
 
 
 - 🔧 Currently building [**CleverHire.ai**](https://cleverhire.ai) – a GenAI-based platform streamlining recruitment workflows.
